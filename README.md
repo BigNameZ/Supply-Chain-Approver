@@ -1,4 +1,5 @@
 # 🚀 StockPilot - Inventory Management System with Approval Workflows
+Video Link: https://www.loom.com/share/ede93b9633834589b86f241021b84386
 
 _End-to-end inventory and approval solution powered by Power Platform: Power Apps, Power Automate, and Power BI._
 
